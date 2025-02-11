@@ -62,6 +62,7 @@
   display: grid;
   gap:16px;
 }
+
 .bicicletas-bg:nth-child(3){
   background: linear-gradient(to right, var(--cor-0)30% , var(--cor-11)30%);
 }
