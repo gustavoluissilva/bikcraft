@@ -48,5 +48,15 @@
     padding-top: 30px;
     padding-bottom: 30px;
   }
-  
+  .lojas-conteudo {
+    grid-template-columns: 1fr;
+  }
+}
+@media(max-width:600px){
+  .lojas{
+    grid-template-columns: 1fr;
+  }
+  .lojas-item {
+    margin-bottom: 40px;
+  }
 }

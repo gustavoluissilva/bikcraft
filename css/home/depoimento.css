@@ -6,6 +6,7 @@
 .depoimento-conteudo{
   align-content: center;
   padding:40px 80px;
+  background: url("../../img/dec/bottom-right-p.svg") no-repeat bottom 40px right 40px;
 }
 .bik{
   display: grid;
